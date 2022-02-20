@@ -30,7 +30,7 @@ header a {
 
 header nav {
     float: right;
-    margin: 7px;
+    margin: 7px 0;
 }
 
 header nav ul li a {
@@ -255,7 +255,7 @@ section {
     font-size: 32px;
 }
 
-.contact-info p.contact
+.contact-info p,
 .contact-info address {
     margin: 20px 0;
     line-height: 1.5;
